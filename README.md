@@ -1,2 +1,5 @@
-# eme6665-fs26-module7
-Slide deck for EME6665, Module 7: Beauty is in Revision (Fall 2026) 
+# EME6665 Module 7: Beauty is in Revision
+
+Slide deck for **EME6665, Module 7: Beauty is in Revision** (Fall 2026)
+
+![](img/7-bonsai.jpg)
